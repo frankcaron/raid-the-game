@@ -1,8 +1,5 @@
-# And then it was written...
 
-Bertina and Frank's first game. 
-
-## Raid
+# Raid
 
 ## Rules of the game
 
@@ -20,6 +17,13 @@ Details:
 - X grid layouts ("arenas")
 - Move and land on top of other team cube to attack it. Remove it from the field and replace with flat chip.
 - Land on chip with fourth cube to Rez.
+
+## Credits
+
+And then it was written...
+
+Bertina and Frank's first game. 
+
 
 
 
