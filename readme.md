@@ -25,5 +25,10 @@ And then it was written...
 Bertina and Frank's first game. 
 
 
-## Dec 29: testing out github
+## V1
+
+- n pieces
+- n travel vectors
+- attack only
+- algo to search for next move: 1) attack if possible 2) move towards end of the field
 
