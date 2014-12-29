@@ -44,3 +44,5 @@ int main(int argc, char *argv[])
 //      if overlapped, need to change the status of the revived piece back to "alive"
 //  - check what happens if we make the board larger or smaller
 //  - check what happens if there are more or less than 3 pieces
+//  - change order of drawing for the team that is moving (right now red is always drawn below green)
+//  - what happens if a piece "jumps" over another piece?

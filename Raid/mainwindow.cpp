@@ -15,7 +15,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     //setup some things that are meta to teams, i.e., to do with a match
     int halfDim = PlayerPiece::blockSize*halfBoardNumBlocks;
-    numPlayerPieces = 3; //cannot be zero.
+    numPlayerPieces = 4; //cannot be zero.
     team1 = new Team(QColor(255,0,0,255),numPlayerPieces, 1);
     team2 = new Team(QColor(0,255,0,255),numPlayerPieces, -1);
     turn = 0;
